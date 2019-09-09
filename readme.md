@@ -7,4 +7,7 @@
  $ yarn
 
  $ yarn start # run yarn dev and yarn queue - simultaneous
+
+ # Run Migrations
+ $ yarn sequeilize db:migrate
  ```
